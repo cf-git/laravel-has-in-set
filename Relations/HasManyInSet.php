@@ -1,7 +1,7 @@
 <?php
 /**
  * Created by Sergei Shubin.
- * Package: Pest_z - wordpress theme
+ * Package: CFGit - LaravelRelations:HasInSet
  * Date: 10/26/2018
  * Time: 9:26 AM
  */
