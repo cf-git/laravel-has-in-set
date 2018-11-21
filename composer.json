@@ -1,0 +1,19 @@
+{
+    "name": "cf-git/laravel-has-in-set",
+    "description": "Laravel 5+ models one or many to many relations based on set (csv string)",
+    "license": "MIT",
+    "version": "1.0.0",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Sergei Shubin",
+            "email": "is.captain.fail@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CFGit\\LaravelHasInSet\\": ""
+        }
+    }
+}
