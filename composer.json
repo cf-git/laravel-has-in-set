@@ -2,7 +2,7 @@
     "name": "cf-git/laravel-has-in-set",
     "description": "Laravel 5+ models one or many to many relations based on set (csv string)",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minimum-stability": "dev",
     "authors": [
         {
