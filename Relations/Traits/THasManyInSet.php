@@ -8,7 +8,7 @@
 
 namespace CFGit\LaravelHasInSet\Relations\Traits;
 
-use App\Models\Relations\HasManyInSet;
+use CFGit\LaravelHasInSet\Relations\HasManyInSet;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
 
